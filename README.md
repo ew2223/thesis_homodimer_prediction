@@ -15,7 +15,7 @@ Three scripts named "*\*\_Narrowe.py*" in this repository are based on codes pro
 The directory numbering follows the pipeline order, with one gap: between stages 2 and 3 the sequences are modelled as homodimers with AlphaFold-Multimer (2.3), using code from <https://github.com/clami66/AF_cache>. Those outputs are the input to feature extraction.
 
 ```
-homodimer_public/
+thesis_homodimer_prediction/
 ├── 1_Select_protein_ids_labelling/
 │   ├── 1_data_curation_Narrowe.ipynb     # PDB → clustering → temporal split → filters
 │   ├── 2_make_stoichiometry_Narrowe.py   # surviving entries → (id, chain, stoichiometry)
