@@ -3,7 +3,7 @@
 
 ## Relationship to prior work
 
-This project builds upon and extends the study of Danielsson & Elofsson (2025), whose code is available at
+This project builds upon and extends the study of Narrowe Danielsson & Elofsson (2025), whose code is available at
 <https://github.com/SarahND97/alphafold-homodimers>.
 
 The AlphaFold pipeline used codes from the previous work of Claudio Mirabello and Sarah Narrowe Danielsson <https://github.com/clami66/AF_cache>. Minor adjustments were made.
