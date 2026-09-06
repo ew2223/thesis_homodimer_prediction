@@ -4,11 +4,9 @@
 ## Relationship to prior work
 
 This project builds upon and extends the study of [Narrowe Danielsson & Elofsson (2025)](https://doi.org/10.1101/2025.11.27.691011), whose code is available at
-<https://github.com/SarahND97/alphafold-homodimers>.
+<https://github.com/SarahND97/alphafold-homodimers>. Three scripts named "*\*\_Narrowe.py*" in this repository are provided by Sarah Narrowe Danielsson.
 
-The AlphaFold pipeline used codes from the previous work of Claudio Mirabello and Sarah Narrowe Danielsson <https://github.com/clami66/AF_cache>. Minor adjustments were made.
-
-Three scripts named "*\*\_Narrowe.py*" in this repository are based on codes provided by Sarah Narrowe Danielsson.
+The AlphaFold pipeline uses code from the previous work of Claudio Mirabello and Sarah Narrowe Danielsson, <https://github.com/clami66/AF_cache>, with minor adjustments.
 
 ## Repository layout
 
